@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Yakoub Derbala!
 
-![banner](your-banner-image-link)
 
 Welcome to my GitHub profile! I'm a Computer Science graduate 🎓, currently diving deep into the world of Blockchain for my Master's 💡. I specialize in developing web applications, decentralized apps (DApps), and smart contracts 📑. My current passion lies in integrating AI 🤖 with blockchain to revolutionize the smart contract ecosystem.
 
