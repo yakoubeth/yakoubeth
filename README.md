@@ -23,7 +23,10 @@ Welcome to my GitHub profile! I'm a Computer Science graduate 🎓, currently di
 - 🌱 Contribute to open-source projects related to AI and blockchain
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](your-github-stats-image-link)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yakoubeth&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakoubeth&layout=compact)
+
 
 ## 🤝 Let's Connect
 - 🌐 [Portfolio](your-portfolio-link)
