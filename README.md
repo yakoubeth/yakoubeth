@@ -1,16 +1,15 @@
 # 👋 Hi there, I'm Yakoub Derbala!
 
-Welcome to my GitHub profile! I'm a Computer Science graduate 🎓, currently diving deep into the world of Blockchain for my Master's 💡. I specialize in developing web applications, decentralized apps (DApps), and smart contracts 📑. My current passion lies in integrating AI 🤖 with blockchain to revolutionize the smart contract ecosystem.
+Welcome to my GitHub profile! I'm a Computer Science graduate 🎓, currently diving deep into the world of Blockchain for my Master's 💡. I specialize in developing web applications, decentralized apps (DApps), and smart contracts 📑. My current passion lies in integrating AI 🤖 with blockchain to revolutionize Web3.
 
 ## 🎓 Education
 - **Bachelor's in Computer Science**
 - **Master's in Blockchain Technology (In Progress)**
 
 ## 💻 Technologies & Tools
-- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js
-- **Blockchain**: Solidity, Web3.js, Ethereum, Truffle
-- **Databases**: MySQL, MongoDB
-- **AI & ML**: TensorFlow (Learning 📚)
+- **Web Development**: HTML, CSS, JavaScript, TypeScript, Next.js, React
+- **Blockchain**: Ethereum, Solidity, Web3.js, Truffle, Ganache, Infura
+- **AI & ML**: Python, Supervised(Regression&Classification), Unsupervised, Reinforcement Learning, LLMs, Generative ai
 
 ## 🚀 Current Projects
 - 🤖 **AI-Driven SaaS for Smart Contracts**: Leveraging AI algorithms to automatically generate robust and efficient smart contracts.
